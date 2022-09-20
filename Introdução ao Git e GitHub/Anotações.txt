@@ -1,0 +1,5 @@
+Link para download do GIT: https://git-scm.com/downloads
+
+Link para o GitHub: https://github.com/
+
+Sobre o Markdown: https://www.markdownguide.org/getting-started/
